@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code for your research, please cite the associated paper below."
+authors:
+  - family-names: “Kübler-Weller”
+    given-names: “Dorothee”
+title: "Code for Switching off subthalamic deep brain stimulation in Parkinson’s disease worsens reaction time and executive function independent of motor effects"
+version: v1.0.0  
+url: "https://github.com/PD-Cognition/StimOn-StimOff_Cognition"  
+preferred-citation:
+  type: @article 
+  authors:
+    - family-names: “Kübler-Weller”
+      given-names: “Dorothee”
+    - family-names: “Paulsen”
+      given-names: “Lisa”
+    - family-names: “Astalosch”
+      given-names: “Melanie”   
+    - family-names: “Landfried”
+      given-names: “Elias”   
+    - family-names: “Manika-Frey”
+      given-names: “Tina”   
+    - family-names: “Brandt”
+      given-names: “Gregor”   
+    - family-names: “Al-Fatly”
+      given-names: “Bassam”   
+    - family-names: “Krause”
+      given-names: “Patricia”   
+    - family-names: “Kühn”
+      given-names: “Andrea”   
+  doi: "10.xxxx/xxxxxx"  # Your paper's DOI
+  title: "Code for Switching off subthalamic deep brain stimulation in Parkinson’s disease worsens reaction time and executive function independent of motor effects"
+  journal: "Journal Name"  
+  volume: "X"  # Optional
+  issue: "X"  # Optional
+  start: "1"  # First page
+  end: "10"  # Last page
+  year: "2026”  # Publication year
+  publisher: "Publisher Name"  # Optional for journals/conferences
